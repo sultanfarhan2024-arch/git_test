@@ -33,4 +33,13 @@ console.log(a - b); // 7
 console.log( a * b); // 120
 console.log(a / b); // 1.875
 console.log(a % b); // 7
-console.log(a ** b);
+console.log(a ** b); // 2562890625
+
+// Comparsion Operators
+
+console.log(17 > 8); //true
+console.log(17 < 8); // false
+console.log(17 >= 8) // true
+console.log(17 <= 8); // false
+console.log(17 == 8); // false
+console.log(17 === 8); // false
