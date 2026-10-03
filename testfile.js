@@ -22,3 +22,15 @@ let salary = 45000; // Number
 console.log(typeof name); // String
 console.log(typeof age); // Number
 console.log(typeof isStudent); // Boolean
+
+// Calculations
+
+let a = 15;
+let b = 8;
+
+console.log(a + b); // 23
+console.log(a - b); // 7
+console.log( a * b); // 120
+console.log(a / b); // 1.875
+console.log(a % b); // 7
+console.log(a ** b);
