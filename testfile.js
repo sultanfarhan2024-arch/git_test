@@ -43,3 +43,8 @@ console.log(17 >= 8) // true
 console.log(17 <= 8); // false
 console.log(17 == 8); // false
 console.log(17 === 8); // false
+
+console.log(20 == 20); // true
+console.log(20 === 20) // true
+console.log(20 == "20"); // true
+console.log(20 === "20"); // false
