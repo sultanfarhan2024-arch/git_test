@@ -11,3 +11,4 @@ console.log(city);
 
 console.log("My name is " + name + " and I am " + age + " years old.");
 console.log(`My name is ${name} and I am from ${city}`);
+console.log(`My name is ${name}, I am ${age} years old and I live in ${city}`);
