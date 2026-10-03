@@ -1,14 +1,24 @@
-// JavaScript project fileclear
+// // JavaScript project fileclear
 
-let name = "Farhan Ali Mirani";
-let age = 21;
-let city = "Karachi";
-console.log(name);
-console.log(age);
-console.log(city);
+// let name = "Farhan Ali Mirani";
+// let age = 21;
+// let city = "Karachi";
+// console.log(name);
+// console.log(age);
+// console.log(city);
 
-// Next Challenge
+// // Next Challenge
 
-console.log("My name is " + name + " and I am " + age + " years old.");
-console.log(`My name is ${name} and I am from ${city}`);
-console.log(`My name is ${name}, I am ${age} years old and I live in ${city}`);
+// console.log("My name is " + name + " and I am " + age + " years old.");
+// console.log(`My name is ${name} and I am from ${city}`);
+// console.log(`My name is ${name}, I am ${age} years old and I live in ${city}`);
+
+let name = "Farhan Mirani"; // String
+let age = 21; // Number
+let isStudent = true; // Boolean
+let city = "Karachi"; // String
+let salary = 45000; // Number
+
+console.log(typeof name); // String
+console.log(typeof age); // Number
+console.log(typeof isStudent); // Boolean
